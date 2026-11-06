@@ -1,0 +1,6 @@
+{
+  "name": "HishabKhata",
+  "description": "Offline-first double-entry & cash-basis local business finance tracker with BDT/Bangla support, receivables/payables, audit-ready ledger, PDF/CSV reports, recurring bills, and local backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
